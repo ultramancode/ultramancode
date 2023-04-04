@@ -1,5 +1,7 @@
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=Taewoong%20Github&fontSize=90)
+
 
 ### 고민을 즐기는 개발자 김태웅입니다👨‍💻
 <br>
@@ -37,5 +39,6 @@ Blog : https://tw-dev.tistory.com/
 
 
 
+</div>
 
 
