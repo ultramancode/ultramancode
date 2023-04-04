@@ -6,30 +6,15 @@
 ### 고민을 즐기는 개발자 김태웅입니다👨‍💻
 <br>
 
-<!--
-**ultramancode/ultramancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✉️ CONTACT
+  
+Mail : ktw2172@gmail.com
 
-Here are some ideas to get you started:
+### ✍️ CHANNEL
+  
+Blog : https://tw-dev.tistory.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### CONTACT
-
-Gmail : ktw2172@gmail.com
-
-#### CHANNEL
-
-Blog : https://tw-dev.tistory.com/
-
-#### SKILL
+### ⚙️ SKILL
 ![224563807-67c19880-4cf0-4dff-864e-8c0b5e334d26](https://user-images.githubusercontent.com/116135174/229726727-e8f08799-ec76-4736-ae9e-54209400a18b.svg)
 ![224563810-e6bf9887-21e0-4335-b363-4a06d47ff332](https://user-images.githubusercontent.com/116135174/229726723-81527a03-aa9a-4ccc-abf6-34a31f401d48.svg)
 ![-JPA-blue](https://user-images.githubusercontent.com/116135174/229729251-36d01097-6116-4f53-a99f-0e4216022eda.svg)
