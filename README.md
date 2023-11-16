@@ -10,9 +10,6 @@
   
 Mail : ktw2172@gmail.com
 
-### ✍️ CHANNEL
-  
-Blog : https://tw-dev.tistory.com
 
 ### ⚙️ SKILL
 ![224563807-67c19880-4cf0-4dff-864e-8c0b5e334d26](https://user-images.githubusercontent.com/116135174/229726727-e8f08799-ec76-4736-ae9e-54209400a18b.svg)
