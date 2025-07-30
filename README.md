@@ -20,6 +20,9 @@ Mail : ktw2172@gmail.com
 
 ### ⚙️ SKILL
 ![224563807-67c19880-4cf0-4dff-864e-8c0b5e334d26](https://user-images.githubusercontent.com/116135174/229726727-e8f08799-ec76-4736-ae9e-54209400a18b.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ![224563810-e6bf9887-21e0-4335-b363-4a06d47ff332](https://user-images.githubusercontent.com/116135174/229726723-81527a03-aa9a-4ccc-abf6-34a31f401d48.svg)
 ![Netty](https://img.shields.io/badge/Netty-6DB33F?style=flat&logoColor=white)
 ![-JPA-blue](https://user-images.githubusercontent.com/116135174/229729251-36d01097-6116-4f53-a99f-0e4216022eda.svg)
