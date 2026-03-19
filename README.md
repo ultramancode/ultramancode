@@ -10,6 +10,8 @@
 ### 🛠 Open Source Contributor
 [![Dify Contributor](https://img.shields.io/badge/Contributor-Dify-4CAF50?style=flat&logo=github&logoColor=white)](https://github.com/langgenius/dify)
 [![Microsoft Presidio](https://img.shields.io/badge/Microsoft%20Presidio-0078D4?style=flat&logo=microsoft&logoColor=white)](https://github.com/microsoft/presidio)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/grafana)
+
 <br>
 
 ### ✉️ CONTACT
