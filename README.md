@@ -33,8 +33,6 @@ Mail : ktw2172@gmail.com
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=orange)
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultramancode)](https://github.com/anuraghazra/github-readme-stats)
-
 [![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktw2172)](https://solved.ac/ktw2172/)
 
 
