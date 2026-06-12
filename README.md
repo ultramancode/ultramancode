@@ -10,7 +10,7 @@
 [![Microsoft Presidio](https://img.shields.io/badge/Microsoft%20Presidio-0078D4?style=flat&logo=microsoft&logoColor=white)](https://github.com/microsoft/presidio)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/grafana)
 [![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/spring-io/start.spring.io)
-
+[![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/spring-projects/spring-ai/pull/6365)
 <br>
 
 ### ✉️ CONTACT
