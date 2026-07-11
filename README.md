@@ -33,12 +33,6 @@ Mail : ktw2172@gmail.com
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=orange)
 <br>
 
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktw2172)](https://solved.ac/ktw2172/)
-
-
-<a href="https://github.com/ultramancode/algo-baekjoon">
-  <img src="https://github.com/ultramancode/ultramancode/assets/116135174/aadde369-ae5d-4e23-aa3a-8d4b24b45723" width="350">
-</a>
 
 
 </div>
