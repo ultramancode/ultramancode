@@ -9,7 +9,7 @@
 
 **[Spring AI Privacy Guardrails](https://github.com/ultramancode/spring-ai-privacy-guardrails)**
 
-Privacy and security guardrails for Spring AI applications, including PII protection and tool authorization.
+Privacy and security guardrails for Spring AI applications, including PII protection, tool authorization, and content inspection.
 
 <br>
 
